@@ -1,0 +1,5 @@
+build/
+
+*.tif
+*.pdf
+*.DS_Store
